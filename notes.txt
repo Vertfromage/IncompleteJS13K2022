@@ -1,0 +1,25 @@
+- To put out fire:
+1. hit it with water
+2. burns out and leaves yellowed grass after time elapses
+
+- To restore color:
+1. hit it with water when it is yellowed
+2. changes to puddle
+3. after time elapses turn to restored color
+
+To damage player: 
+1. hit with water
+
+To restore fire:
+1. Go back to flaming grass
+
+To lose:
+1. Run out of fire
+
+To win level:
+1.burn down all the trees
+
+
+Game Progression:
+1. Levels randomly generated
+2. More water elves each turn
